@@ -214,4 +214,3 @@ print(word_count)
 **下一阶段：**学习 `tuple`、`set` 等数据结构，继续过渡到词表构建。参见 [Python 数据结构进阶学习总结（二）](Python_数据结构进阶_第二阶段.md)。
 
 **依据：**[CS224N Python Day 1 知识清单](CS224N_Python_Day1_知识清单.pdf)。
-
