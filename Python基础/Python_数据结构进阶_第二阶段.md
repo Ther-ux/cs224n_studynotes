@@ -178,4 +178,3 @@ Tokenization ↓ Embedding ↓ Transformer
 tuple 主要用于 Tensor shape。
 
 set 主要用于词表构建和文本去重。
-
